@@ -1,0 +1,28 @@
+body {
+  background: #333454;
+}
+
+figure {
+  width: 22%;
+  margin-left: 2%;
+  display: inline-block;
+  margin-bottom: 20px;
+  vertical-align: top;
+  padding: 10px;
+  box-sizing: border-box;
+  background: #fff;
+  border-radius: 3px;
+  position: relative;
+}
+
+img {
+  width: 100%;
+}
+
+figcaption {
+  display: none;
+  position: absolute;
+  background: #fff;
+  padding: 20px;
+  z-index: 2;
+}
